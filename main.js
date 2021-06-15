@@ -32,4 +32,4 @@ function Palindrom(text){
     }
     }
     
-    reverseWord("saya belajar Javascript");
+    reverseWord("saya senang belajar Javascript");
